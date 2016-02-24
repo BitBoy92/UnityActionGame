@@ -20,3 +20,8 @@ This project uses the MIT license. This essentially means that if you use code f
 
 ## Attribution
 This repository would not be possible without the help from [here](http://gamasutra.com/blogs/AlistairDoulin/20150304/237814/Git_for_Unity_Developers.php), [here](http://answers.unity3d.com/questions/369755/unity-on-github.html), and [here](http://kleber-swf.com/the-definitive-gitignore-for-unity-projects/). The information [here](http://stackoverflow.com/questions/31276535/updated-gitignore-but-files-still-being-tracked) was also extremely valueable.
+
+# Art Assets Taken From
+http://opengameart.org/content/animated-top-down-survivor-player
+http://opengameart.org/content/top-down-animated-zombie-set
+http://opengameart.org/content/outside-tileset-0
